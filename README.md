@@ -20,12 +20,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Preview](https://raw.githubusercontent.com/amy-justice/profile-card-component/main/images/Screenshot%202021-04-08%20200516.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-profile-card-component-zOSRSANrW](https://www.frontendmentor.io/solutions/html-css-profile-card-component-zOSRSANrW)
+- Live Site URL: [https://vibrant-lumiere-3bdc99.netlify.app/](https://vibrant-lumiere-3bdc99.netlify.app/)
 
 ## My process
 
